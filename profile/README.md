@@ -6,6 +6,7 @@
   <div>
     <a href="https://github.com/new-soul-house"><img src="https://img.shields.io/badge/NewSoul-新心靈舍-blue" /></a>&emsp;
     <a href="https://linluhe.github.io/qrcode.html"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://linluhe.github.io/group_qrcode.html"><img src="https://img.shields.io/badge/WeChat-微信群-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/4557530/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=new-soul-house&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -25,3 +26,6 @@
                                                                             ————尊者
 ```
 
+<div align="center">
+  [![Star History Chart](https://api.star-history.com/svg?repos=new-soul-house/6AM-Class,new-soul-house/new-creation,Kaine-Ktisis/new-creation-music&type=Date)](https://star-history.com/#new-soul-house/6AM-Class&new-soul-house/new-creation&Kaine-Ktisis/new-creation-music&Date)
+</div>
