@@ -11,6 +11,8 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=new-soul-house&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+  
+  [![Star History Chart](https://api.star-history.com/svg?repos=new-soul-house/6AM-Class,new-soul-house/new-creation,Kaine-Ktisis/new-creation-music&type=Date)](https://star-history.com/#new-soul-house/6AM-Class&new-soul-house/new-creation&Kaine-Ktisis/new-creation-music&Date)
 </div>
 
 [<img align="right" width="20%" src="https://github.com/new-soul-house/.github/assets/163412740/698c5c8c-3eb0-4a02-abee-28e750772368">](https://www.bilibili.com/video/BV1G6421c7pW/)
@@ -26,6 +28,3 @@
                                                                             ————尊者
 ```
 
-<div align="center">
-  [![Star History Chart](https://api.star-history.com/svg?repos=new-soul-house/6AM-Class,new-soul-house/new-creation,Kaine-Ktisis/new-creation-music&type=Date)](https://star-history.com/#new-soul-house/6AM-Class&new-soul-house/new-creation&Kaine-Ktisis/new-creation-music&Date)
-</div>
