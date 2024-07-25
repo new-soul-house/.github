@@ -28,6 +28,6 @@
 
 <div align="center">
   
-[![Star History Chart](https://api.star-history.com/svg?repos=new-soul-house/6AM-Class,new-soul-house/new-creation,Kaine-Ktisis/new-creation-music&type=Date)](https://star-history.com/#new-soul-house/6AM-Class&new-soul-house/new-creation&Kaine-Ktisis/new-creation-music&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=new-soul-house/6AM-Class,new-soul-house/new-creation,new-soul-house/LLMPipeline,Kaine-Ktisis/new-creation-music&type=Date)](https://star-history.com/#new-soul-house/6AM-Class&new-soul-house/new-creation&new-soul-house/LLMPipeline&Kaine-Ktisis/new-creation-music&Date)
 
 </div>
